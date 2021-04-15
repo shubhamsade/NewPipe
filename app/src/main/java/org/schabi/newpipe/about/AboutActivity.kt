@@ -1,4 +1,4 @@
-package org.schabi.newpipe.about
+package org.schabi.pillyatube.about
 
 import android.os.Bundle
 import android.view.LayoutInflater
